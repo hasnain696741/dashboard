@@ -1,0 +1,47 @@
+.signup {
+    width: 50%;
+    height: 70vh;
+    /* background-color: aliceblue; */
+    display: flex;
+    justify-content: center;
+    margin: 50px auto;
+}
+.signup input{
+    width: 300px;
+    height: 30px;
+    margin-top: 20px;
+}
+.signup button{
+    width: 100px;
+    height: 40px;
+    margin: 20px 100px;
+    background-color: blue;
+    opacity: 0.8;
+    color: wheat;
+    border: none;
+border-radius: 20px;
+}
+         /* ============ styling for sign in ========== */
+.signin {
+    width: 50%;
+    height: 70vh;
+    /* background-color: aliceblue; */
+    display: flex;
+    justify-content: center;
+    margin: 50px auto;
+}
+.signin input{
+    width: 300px;
+    height: 30px;
+    margin-top: 20px;
+}
+.signin button{
+    width: 100px;
+    height: 40px;
+    margin: 20px 100px;
+    background-color: blue;
+    opacity: 0.8;
+    color: wheat;
+    border: none;
+border-radius: 20px;
+}
